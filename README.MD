@@ -1,1 +1,1 @@
-Rubbish RHP.
+A simple Java Web Application
